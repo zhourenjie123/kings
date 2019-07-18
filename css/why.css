@@ -1,0 +1,576 @@
+.main {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.slogo {
+    float: left;
+    width: 1000px;
+    height: 176px;
+    overflow: hidden;
+}
+
+.stop {
+    float: left;
+    width: 940px;
+    padding-left: 60px;
+    height: 70px;
+    background:url("../images/bg_1.gif") repeat-x;
+}
+
+.stop1 {
+    float: left;
+    width:940px;
+    height: 42px;
+}
+
+.stop2 {
+    float: left;
+    width:940px;
+    height: 28px;
+    line-height:28px;
+	
+}
+
+.stop11 {
+    float: left;
+    width: 476px;
+    height: 42px;
+}
+
+.stop12 {
+    float: left;
+    width: 464px;
+    height: 42px;
+}
+
+a.blue {
+    font-size: 15px;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+}
+
+a.blue:hover {
+    font-size: 15px;
+    font-weight: bold;
+    color: yellow;
+    text-decoration: none;
+}
+
+.stop_yes li {
+    float: left;
+    height: 42px;
+}
+
+.stop_yes .stop111 {
+    width: 4px;
+    background: url("../images/bg_2.gif") no-repeat;
+}
+
+.stop_yes .stop112 {
+    background: url("../images/bg_3.gif") repeat-x;
+    line-height: 42px;
+    padding: 0 10px;
+}
+
+.stop_yes .stop113 {
+    width: 4px;
+    background: url("../images/bg_4.gif") no-repeat;
+}
+
+.stop_no li {
+    float: left;
+    height: 42px;
+}
+
+.stop_no .stop111 {
+    width: 4px;
+}
+
+.stop_no .stop112 {
+    line-height: 42px;
+    padding: 0 10px;
+}
+
+.stop_no .stop113 {
+    width: 4px;
+}
+
+
+.stop121 {
+    float: left;
+    width:223px;
+    height: 42px;
+    line-height: 42px;
+    background: url("../images/bg_5.gif") no-repeat;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    text-indent: 20px;
+}
+
+.stop122 {
+    float: left;
+    width:241px;
+    height: 31px;
+    margin-top:11px;
+}
+
+.stop1221 {
+    float: left;
+    width: 200px;
+    height: 22px;
+}
+
+.stop1221 input {
+    width: 199px;
+    height: 20px;
+    border-top: 1px solid #cecece;
+    border-left: 1px solid #cecece;
+    border-bottom: 1px solid #e5e5e5;
+    color:#b6b6b6;
+}
+
+.stop1222 {
+    float: left;
+    width: 20px;
+    height: 22px;
+}
+
+.stop21{
+       float:left
+	   width:300px;
+	   height:28px;
+       overflow: hidden;
+}
+.stop211{
+       float:left
+	   width:300px;
+	   height:28px;
+	   color:red;
+}
+
+.span {
+     color:red;
+}
+
+
+.cc {
+     float: left;
+    width: 1000px;
+    overflow: hidden;
+    margin:2px 0;
+	 
+}
+.ccc {
+     float: left;
+    width:998px;
+	border:1px solid #e1e1e1;
+}
+.cc1 {
+     float: left;
+    width: 200px;
+	height: 43px;
+	background:url("../images/bg-2.gif") no-repeat;
+	
+	}
+
+
+
+.cc2 {
+     float: left;
+    width: 170px;
+	height: 40px;
+	margin:0 10px 0 30px;
+	background:url("../images/bg-8.gif") no-repeat;
+	}
+
+.cc3 {
+     float: left;
+    width: 170px;
+	height: 30px;
+	margin:0 10px;
+	background:url("../images/bg-7.gif") no-repeat;
+	}
+.cc4 {
+     float: left;
+    width: 170px;
+	height: 30px;
+	margin:0 10px;
+	background:url("../images/bg-7.gif") no-repeat;
+	}
+.cc5 {
+     float: left;
+    width: 170px;
+	height: 30px;
+	margin:0 10px;
+	background:url("../images/bg-7.gif") no-repeat;
+	}
+.txt{
+    text-align:center;
+	margin-top:5px;
+     font-size:15px;
+}
+.txt11{
+    text-align:center;
+	margin-top:5px;
+     font-size:15px;
+	 color:#fff;
+}
+.zzz{
+     float: left;
+	 width:998px;
+	 border:1px solid #e1e1e1;	
+}
+.zzz1{
+      float:left;
+	  width: 196px;
+	height: 109px;
+}
+.zzz2{
+      float:left;
+	  width: 196px;
+	height: 109px;
+}
+
+.zzz3{
+      float:left;
+	  width: 196px;
+	height: 109px;
+}
+
+.zzz4{
+      float:left;
+	  width: 196px;
+	height: 109px;
+}
+.zzz5{
+      float:left;
+	  width: 196px;
+	height: 109px;
+}
+.aa1{
+     float:left;
+	 margin:0 20px;
+
+}
+.aa2{
+     float:left;
+	 margin:0 20px;
+}
+.aa3{
+      float:left;
+	  margin:0 20px;
+}
+.aa4{
+      float:left;
+	  margin:0 20px;
+}
+.aa5{
+      float:left;
+	  margin: 0 10px;
+}
+.xyx{
+     margin:2px 0;
+     float: left;
+	 width:716px;
+	 border:1px solid #e1e1e1; 
+	 border-bottom-color:#b4d644;
+}
+.xyx1{
+      float: left;
+      height: 30px;
+      width:254px;
+}
+.xyx2{
+      float: left;
+	   width: 5px;
+	  height: 34px;
+      background: url("../images/bg-14.gif") no-repeat;
+	  margin:2px 0 0 30px;
+}
+.xyx3{
+      float: left;
+	    width:300px;
+	    height: 34px;
+	   background: url("../images/bg-16.gif") repeat-x;
+       line-height: 34px;
+	   margin:2px 0 0;
+}
+.xyx4{
+      float: left;
+	    width: 5px;
+	   height: 34px;
+	   background: url("../images/bg-15.gif") no-repeat;
+	   margin:2px 0 0;
+}
+.tx {
+    float:right;
+	width: 280px;
+	 height: 390px;
+	
+	border:1px solid #e1e1e1;
+}
+
+.xyx31-yes{
+    float:left;
+	width: 70px;
+	height: 32px;
+	background: url("../images/bg-17.gif") no-repeat ;
+	margin:2px 5px;
+	color:#449e1c;
+}
+.xyx31-no{
+    float:left;
+	color:#ffffff;
+}
+.xyx5{
+     float:right;
+	 margin:10px 0 0;
+}
+.xyx6{
+   float:left;
+   width: 250px;
+   height: 250px;
+   margin:10px 20px ;
+}
+.xyx7{
+    float:left;
+	width: 360px;
+	height: 240px;
+    line-height:30px;
+    margin:10px 0 ;
+	color:blue;
+	font-weight:bold;
+	border-bottom: 1px solid #e1e1e1;
+}
+.xyx8{
+    float:right;
+	width: 30px;
+	margin:10px 15px ;
+	line-height:30px;
+	color:red;
+	font-weight:bold;
+}
+.xyx9{
+    float:left;
+	 margin:0;
+}
+.tx1{
+     float:left;
+	 margin:10px 0 0 10px;
+}
+.tx2{
+     float:left;
+	 margin:10px;
+}
+.xyx71{
+     border-bottom: 1px solid #e1e1e1;
+}
+.tx3{
+     float:left;
+      width: 276px;
+     
+}
+.tx4{
+     float:left;
+     float:left;
+	width: 150px;
+	height: 240px;
+    line-height:30px;
+    margin:10px 0 ;
+	color:blue;
+	font-weight:bold;
+	border-bottom: 1px solid #e1e1e1;
+	margin:10px;
+   
+}
+.tx5{
+    float:right;
+	float:right;
+	width: 60px;
+	margin:10px 15px ;
+	line-height:30px;
+	color:red;
+	font-weight:bold;
+}
+.tx41{
+    border-bottom: 1px solid #e1e1e1; 
+}
+.xiao{
+    margin:2px 0;
+     float: left;
+	 width:716px;
+	 border:1px solid #e1e1e1; 
+	 border-bottom-color:#b4d644
+}
+.xyx1{
+      float: left;
+      height: 30px;
+      width:254px;
+}
+.xyx2{
+      float: left;
+	   width: 5px;
+	  height: 34px;
+      background: url("../images/bg-14.gif") no-repeat;
+	  margin:2px 0 0 30px;
+}
+.xyx3{
+      float: left;
+	    width:300px;
+	    height: 34px;
+	   background: url("../images/bg-16.gif") repeat-x;
+       line-height: 34px;
+	   margin:2px 0 0;
+}
+.xyx4{
+      float: left;
+	    width: 5px;
+	   height: 34px;
+	   background: url("../images/bg-15.gif") no-repeat;
+	   margin:2px 0 0;
+}
+.xyx5{
+     float:right;
+	 margin:10px 0 0;
+}
+.tang{
+   float:right;
+	width: 280px;
+	 height: 390px;
+	
+	border:1px solid #e1e1e1;
+}
+.xiao1{
+     float: left;
+     margin:10px 0 0 30px;
+}
+.xiao2{
+     float: left;
+    margin:10px 0 0 60px;
+}
+
+.xiao3{
+     float: left;
+     margin:10px 0 0 60px;
+}
+.xiao4{
+     float: left;
+     margin:10px 0 0 60px;
+}
+
+.tang5{
+      float:right;
+	width: 280px;
+	 height: 390px;
+	
+	border:1px solid #e1e1e1;
+}
+.tang6{
+      float:right;
+	width: 280px;
+	 height: 340px;
+	
+	border:1px solid #e1e1e1;
+}
+
+.tang7{
+      float:right;
+	width: 280px;
+	 height: 260px;
+	border:1px solid #e1e1e1;
+}
+.tang61{
+      float:left;
+	  width: 280px;
+	 height: 30px;
+     margin:0 0 10px 0;
+}
+.tang611{
+    float:left;
+	 margin:10px 0 0 10px;
+}
+.tang612{
+    float:left;
+	 margin:10px 0 0 10px;
+	 font-weight:bold;
+}
+
+.tang62{
+   float:left;
+   width: 280px;
+   height: 290px;
+   background-color:#f8f8f8;
+}
+.tang621{
+     float:left;
+	 line-height:30px;
+	 margin:0 10px;
+}
+.tang622{
+     float:right;
+	 line-height:30px;
+}
+
+.tang71{
+     float:left;
+	  width: 280px;
+      height: 30px;
+      
+}
+.xiang{
+   float:left;
+    width: 998px;
+	border:1px solid #e1e1e1;
+	background-color:#f1eef5;
+    margin:10px 0;
+}
+.span1{
+    font-weight:bold;
+}
+.xiang1{
+     float:left;
+    width: 998px;
+	border:1px solid #e1e1e1;
+	background-color:#f1eef5;
+     text-align:center;
+}
+.tang666{
+       float:left;
+	   width: 280px;
+	 margin:10px 0 0 10px;
+
+}
+.tang6666{
+      float:left;
+	  width: 280px;
+	  margin:10px 0;
+	  background-color:#f6f5f5;
+	  height: 350px;
+}
+.tang50{
+      float:left;
+      width: 20px;
+
+	  margin:10px 0 0 5px;
+}
+.tang51{
+      float:left;
+      width: 240px;
+
+	  margin:10px 0;
+}
+.xiang2{
+        float:left;
+		margin:20px 0 0 200px;
+}
+.xiang3{
+        float:left;
+		margin:20px 0 0 30px;
+}
+.xiang4{
+        float:left;
+		margin:20px 0 0 30px;
+}
